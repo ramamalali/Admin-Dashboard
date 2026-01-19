@@ -66,10 +66,10 @@ This project is mainly a **training/demo app**, potentially for **payroll or tea
    [codesandbox](https://codesandbox.io/p/github/ramamalali/Admin-Dashboard/draft/gallant-neumann)
 
    ---
+
+ ## Tree Structure
    
-   ## Tree Structure
-   
-   ```
+ ```
  Admin-Dashboard/
  ├── public/                 
  ├── src/
@@ -100,7 +100,7 @@ This project is mainly a **training/demo app**, potentially for **payroll or tea
  ├── vite.config.js
  └── README.md
 
-   ```
+ ```
 
    ---
 
